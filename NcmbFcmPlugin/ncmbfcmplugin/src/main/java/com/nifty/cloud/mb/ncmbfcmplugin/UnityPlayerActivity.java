@@ -19,9 +19,6 @@ package com.nifty.cloud.mb.ncmbfcmplugin;
 import android.content.Intent;
 import android.os.Bundle;
 import android.util.Log;
-
-import com.google.firebase.FirebaseApp;
-import com.google.firebase.iid.FirebaseInstanceId;
 import com.unity3d.player.UnityPlayer;
 
 public class UnityPlayerActivity extends com.unity3d.player.UnityPlayerActivity {
